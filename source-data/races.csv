@@ -1,0 +1,67 @@
+raceId,season,round,raceName,circuit,country,date,time
+202301,2023,1,Silverpine Grand Prix,Silverpine Circuit,United Kingdom,2023-03-05,13:00:00
+202302,2023,2,Costa Azul Grand Prix,Autodromo Costa Azul,Spain,2023-03-18,null
+202303,2023,3,Sakura Grand Prix,Sakura International,Japan,2023-03-31,05:00:00
+202304,2023,4,Redstone Grand Prix,Redstone Park,United States,2023-04-13,19:00:00
+202305,2023,5,Lago Bianco Grand Prix,Circuito Lago Bianco,Italy,2023-04-26,null
+202306,2023,6,Nordbahn Grand Prix,Nordbahnring,Germany,2023-05-09,null
+202307,2023,7,Harbourside Grand Prix,Harbourside Street Circuit,Australia,2023-05-22,null
+202308,2023,8,Vallee Verte Grand Prix,Circuit de la Vallee Verte,France,2023-06-04,13:00:00
+202309,2023,9,Aurora Grand Prix,Aurora Raceway,Canada,2023-06-17,18:00:00
+202310,2023,10,Al Dhafra Grand Prix,Al Dhafra Circuit,United Arab Emirates,2023-06-30,null
+202311,2023,11,Tafelberg Grand Prix,Tafelberg Circuit,South Africa,2023-07-13,12:00:00
+202312,2023,12,Serra Dourada Grand Prix,Autodromo Serra Dourada,Brazil,2023-07-26,17:00:00
+202313,2023,13,Baltica Grand Prix,Baltica Ring,Poland,2023-08-08,13:00:00
+202314,2023,14,Marina Bay East Grand Prix,Marina East Street Circuit,Singapore,2023-08-21,12:00:00
+202315,2023,15,Highlands Grand Prix,Highlands Motor Park,Netherlands,2023-09-03,13:00:00
+202316,2023,16,Sierra Nevada Grand Prix,Sierra Nevada Speedway,Mexico,2023-09-16,null
+202317,2023,17,Danube Grand Prix,Danube Ring,Hungary,2023-09-29,null
+202318,2023,18,Fjordland Grand Prix,Fjordland Circuit,Norway,2023-10-12,13:00:00
+202319,2023,19,Atlas Grand Prix,Atlas Circuit,Morocco,2023-10-25,13:00:00
+202320,2023,20,Emerald Grand Prix,Emerald Park,Ireland,2023-11-07,13:00:00
+202321,2023,21,Golden Gate Grand Prix,Golden Gate Street Circuit,United States,2023-11-20,21:00:00
+202322,2023,22,Apex City Grand Prix,Apex City Circuit,United Arab Emirates,2023-12-03,null
+202401,2024,1,Silverpine Grand Prix,Silverpine Circuit,United Kingdom,2024-03-10,13:00:00
+202402,2024,2,Costa Azul Grand Prix,Autodromo Costa Azul,Spain,2024-03-23,13:00:00
+202403,2024,3,Sakura Grand Prix,Sakura International,Japan,2024-04-05,05:00:00
+202404,2024,4,Redstone Grand Prix,Redstone Park,United States,2024-04-18,19:00:00
+202405,2024,5,Lago Bianco Grand Prix,Circuito Lago Bianco,Italy,2024-05-01,13:00:00
+202406,2024,6,Nordbahn Grand Prix,Nordbahnring,Germany,2024-05-14,13:00:00
+202407,2024,7,Harbourside Grand Prix,Harbourside Street Circuit,Australia,2024-05-27,04:00:00
+202408,2024,8,Vallee Verte Grand Prix,Circuit de la Vallee Verte,France,2024-06-09,13:00:00
+202409,2024,9,Aurora Grand Prix,Aurora Raceway,Canada,2024-06-22,18:00:00
+202410,2024,10,Al Dhafra Grand Prix,Al Dhafra Circuit,United Arab Emirates,2024-07-05,14:00:00
+202411,2024,11,Tafelberg Grand Prix,Tafelberg Circuit,South Africa,2024-07-18,12:00:00
+202412,2024,12,Serra Dourada Grand Prix,Autodromo Serra Dourada,Brazil,2024-07-31,17:00:00
+202413,2024,13,Baltica Grand Prix,Baltica Ring,Poland,2024-08-13,13:00:00
+202414,2024,14,Marina Bay East Grand Prix,Marina East Street Circuit,Singapore,2024-08-26,12:00:00
+202415,2024,15,Highlands Grand Prix,Highlands Motor Park,Netherlands,2024-09-08,13:00:00
+202416,2024,16,Sierra Nevada Grand Prix,Sierra Nevada Speedway,Mexico,2024-09-21,19:00:00
+202417,2024,17,Danube Grand Prix,Danube Ring,Hungary,2024-10-04,13:00:00
+202418,2024,18,Fjordland Grand Prix,Fjordland Circuit,Norway,2024-10-17,13:00:00
+202419,2024,19,Atlas Grand Prix,Atlas Circuit,Morocco,2024-10-30,13:00:00
+202420,2024,20,Emerald Grand Prix,Emerald Park,Ireland,2024-11-12,13:00:00
+202421,2024,21,Golden Gate Grand Prix,Golden Gate Street Circuit,United States,2024-11-25,21:00:00
+202422,2024,22,Apex City Grand Prix,Apex City Circuit,United Arab Emirates,2024-12-08,13:00:00
+202501,2025,1,Silverpine Grand Prix,Silverpine Circuit,United Kingdom,2025-03-09,13:00:00
+202502,2025,2,Costa Azul Grand Prix,Autodromo Costa Azul,Spain,2025-03-22,13:00:00
+202503,2025,3,Sakura Grand Prix,Sakura International,Japan,2025-04-04,05:00:00
+202504,2025,4,Redstone Grand Prix,Redstone Park,United States,2025-04-17,19:00:00
+202505,2025,5,Lago Bianco Grand Prix,Circuito Lago Bianco,Italy,2025-04-30,13:00:00
+202506,2025,6,Nordbahn Grand Prix,Nordbahnring,Germany,2025-05-13,13:00:00
+202507,2025,7,Harbourside Grand Prix,Harbourside Street Circuit,Australia,2025-05-26,04:00:00
+202508,2025,8,Vallee Verte Grand Prix,Circuit de la Vallee Verte,France,2025-06-08,13:00:00
+202509,2025,9,Aurora Grand Prix,Aurora Raceway,Canada,2025-06-21,18:00:00
+202510,2025,10,Al Dhafra Grand Prix,Al Dhafra Circuit,United Arab Emirates,2025-07-04,14:00:00
+202511,2025,11,Tafelberg Grand Prix,Tafelberg Circuit,South Africa,2025-07-17,12:00:00
+202512,2025,12,Serra Dourada Grand Prix,Autodromo Serra Dourada,Brazil,2025-07-30,17:00:00
+202513,2025,13,Baltica Grand Prix,Baltica Ring,Poland,2025-08-12,13:00:00
+202514,2025,14,Marina Bay East Grand Prix,Marina East Street Circuit,Singapore,2025-08-25,12:00:00
+202515,2025,15,Highlands Grand Prix,Highlands Motor Park,Netherlands,2025-09-07,13:00:00
+202516,2025,16,Sierra Nevada Grand Prix,Sierra Nevada Speedway,Mexico,2025-09-20,19:00:00
+202517,2025,17,Danube Grand Prix,Danube Ring,Hungary,2025-10-03,13:00:00
+202518,2025,18,Fjordland Grand Prix,Fjordland Circuit,Norway,2025-10-16,13:00:00
+202519,2025,19,Atlas Grand Prix,Atlas Circuit,Morocco,2025-10-29,13:00:00
+202520,2025,20,Emerald Grand Prix,Emerald Park,Ireland,2025-11-11,13:00:00
+202521,2025,21,Golden Gate Grand Prix,Golden Gate Street Circuit,United States,2025-11-24,21:00:00
+202522,2025,22,Apex City Grand Prix,Apex City Circuit,United Arab Emirates,2025-12-07,13:00:00

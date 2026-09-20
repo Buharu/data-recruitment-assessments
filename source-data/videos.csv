@@ -1,0 +1,306 @@
+videoId,raceId,focusDriverId,category,title,publishDatetime,durationSeconds,views,likes,comments,avgViewPct
+5001,,,off-season,Technical regulations deep dive | 2023,2023-01-05T18:00:00,660,16182,735,51,45.2
+5002,,,off-season,Drivers to watch | 2023,2023-01-09T16:00:00,1485,12153,534,45,45.4
+5003,,,off-season,Rule changes explained | 2023,2023-01-12T17:00:00,1140,11549,439,46,47.5
+5004,,,off-season,Season preview | 2023,2023-01-20T16:00:00,1245,19425,932,67,47.6
+5005,,,off-season,Engine suppliers explained | 2023,2023-01-21T17:00:00,1305,9844,441,37,50.4
+5006,,,off-season,Pre-season testing analysis | 2023,2023-02-06T18:00:00,1185,15123,559,37,48.4
+5007,,,off-season,Team launch roundup | 2023,2023-02-07T18:00:00,1455,11029,508,29,49.8
+5008,,,off-season,Predictions show | 2023,2023-02-10T18:00:00,1005,15373,636,64,45.5
+5009,,,off-season,Fantasy league launch | 2023,2023-02-20T16:00:00,630,17468,756,74,48.8
+5010,,,off-season,Calendar guide | 2023,2023-02-20T17:00:00,1395,21998,1058,90,48.4
+5011,202301,,qualifying-report,Silverpine Grand Prix 2023 qualifying report,2023-03-05T06:35:10,1410,25079,1134,81,46.6
+5012,202301,1,driver-focus,Kasper Renn: the story so far,2023-03-06T13:09:34,735,21362,982,71,44.0
+5013,202301,2,driver-focus,Mateo Vidal: the story so far,2023-03-06T22:05:36,1290,22672,983,65,50.9
+5014,202301,,race-recap,Silverpine Grand Prix 2023 race highlights and analysis,2023-03-09T12:05:33,660,29874,1173,61,50.2
+5015,202302,,qualifying-report,Costa Azul Grand Prix 2023 qualifying report,2023-03-17T23:00:33,855,46015,1781,130,41.2
+5016,202302,4,driver-focus,Elodie Marchand: the story so far,2023-03-20T05:40:00,1320,26196,1163,35,39.6
+5017,202302,2,driver-focus,Mateo Vidal: the story so far,2023-03-20T14:40:06,915,30142,1186,126,50.9
+5018,202302,,race-recap,Costa Azul Grand Prix 2023 race highlights and analysis,2023-03-20T20:52:26,1425,42154,1887,67,48.4
+5019,202302,4,driver-focus,Elodie Marchand: the story so far,2023-03-21T10:35:40,795,40007,1900,119,47.5
+5020,202302,,tech-analysis,How the cars evolved for Costa Azul Grand Prix 2023,2023-03-21T18:50:41,1335,26607,950,69,44.5
+5021,202303,,qualifying-report,Sakura Grand Prix 2023 qualifying report,2023-03-30T18:27:25,870,24404,1067,111,39.7
+5022,202303,4,driver-focus,Elodie Marchand: the story so far,2023-04-03T13:38:49,945,36606,1021,106,44.6
+5023,202303,21,driver-focus,Casper Holm: the story so far,2023-04-03T16:11:27,1470,22718,990,35,46.5
+5024,202303,10,driver-focus,Petr Kovalenko: the story so far,2023-04-03T18:04:38,1155,34516,1556,140,53.4
+5025,202303,,tech-analysis,How the cars evolved for Sakura Grand Prix 2023,2023-04-04T17:35:10,1320,14764,716,39,40.7
+5026,202303,,race-recap,Sakura Grand Prix 2023 race highlights and analysis,2023-04-08T08:27:34,1095,100785,4317,312,46.8
+5027,202304,,qualifying-report,Redstone Grand Prix 2023 qualifying report,2023-04-13T02:59:09,1485,19966,965,35,47.4
+5028,202304,,race-recap,Redstone Grand Prix 2023 race highlights and analysis,2023-04-15T04:56:42,525,87634,3250,296,66.8
+5029,202304,4,driver-focus,Elodie Marchand: the story so far,2023-04-16T10:08:46,1410,37833,1441,94,46.3
+5030,202305,,qualifying-report,Lago Bianco Grand Prix 2023 qualifying report,2023-04-26T01:21:56,735,44781,2013,170,46.8
+5031,202305,12,driver-focus,Wei Tan: the story so far,2023-04-27T18:52:20,1065,38402,1432,139,46.5
+5032,202305,1,driver-focus,Kasper Renn: the story so far,2023-04-28T23:04:23,1395,18867,900,53,37.9
+5033,202305,,tech-analysis,How the cars evolved for Lago Bianco Grand Prix 2023,2023-04-30T01:52:49,1065,21787,885,79,45.6
+5034,202305,,race-recap,Lago Bianco Grand Prix 2023 race highlights and analysis,2023-05-03T17:18:49,1275,49824,2004,160,45.2
+5035,202306,2,driver-focus,Mateo Vidal: the story so far,2023-05-12T05:58:43,480,29495,1152,103,39.3
+5036,202306,2,driver-focus,Mateo Vidal: the story so far,2023-05-12T23:21:07,870,36852,1329,57,52.2
+5037,202306,,tech-analysis,How the cars evolved for Nordbahn Grand Prix 2023,2023-05-13T06:56:33,1110,21138,930,68,45.2
+5038,202306,,race-recap,Nordbahn Grand Prix 2023 race highlights and analysis,2023-05-14T05:35:10,1320,47901,1986,124,50.7
+5039,202307,2,driver-focus,Mateo Vidal: the story so far,2023-05-23T06:23:48,570,34220,1277,80,49.7
+5040,202307,,race-recap,Harbourside Grand Prix 2023 race highlights and analysis,2023-05-23T07:18:05,870,27501,1106,95,58.4
+5041,202307,14,driver-focus,Joao Ferreira: the story so far,2023-05-23T14:04:42,990,49236,2073,158,49.3
+5042,202307,,tech-analysis,How the cars evolved for Harbourside Grand Prix 2023,2023-05-24T15:13:29,1275,30940,1394,111,51.6
+5043,202307,2,driver-focus,Mateo Vidal: the story so far,2023-05-26T02:51:55,1410,49816,1537,179,53.4
+5044,202308,,qualifying-report,Vallee Verte Grand Prix 2023 qualifying report,2023-06-04T09:50:32,1020,29971,895,120,50.3
+5045,202308,20,driver-focus,Lukas Steiner: the story so far,2023-06-06T06:38:45,1350,45371,1840,170,53.4
+5046,202308,20,driver-focus,Lukas Steiner: the story so far,2023-06-06T07:39:01,555,42468,1703,135,35.6
+5047,202308,4,driver-focus,Elodie Marchand: the story so far,2023-06-08T01:25:23,705,35664,1346,148,47.7
+5048,202308,,race-recap,Vallee Verte Grand Prix 2023 race highlights and analysis,2023-06-09T12:49:21,840,66529,3598,147,53.4
+5049,202309,,qualifying-report,Aurora Grand Prix 2023 qualifying report,2023-06-17T03:31:56,945,30344,986,92,46.6
+5050,202309,20,driver-focus,Lukas Steiner: the story so far,2023-06-19T21:19:23,840,33873,1393,84,47.7
+5051,202309,14,driver-focus,Joao Ferreira: the story so far,2023-06-21T11:09:41,1365,30188,1169,102,52.9
+5052,202309,,tech-analysis,How the cars evolved for Aurora Grand Prix 2023,2023-06-21T18:51:56,705,22903,920,116,43.8
+5053,202309,,race-recap,Aurora Grand Prix 2023 race highlights and analysis,2023-06-22T16:59:33,720,68879,2465,193,51.6
+5054,202310,,qualifying-report,Al Dhafra Grand Prix 2023 qualifying report,2023-06-30T10:26:30,990,30166,1224,126,49.1
+5055,202310,14,driver-focus,Joao Ferreira: the story so far,2023-07-02T04:52:50,1425,39561,1190,119,56.8
+5056,202310,,race-recap,Al Dhafra Grand Prix 2023 race highlights and analysis,2023-07-04T02:46:17,1080,35126,1614,78,37.7
+5057,202311,,qualifying-report,Tafelberg Grand Prix 2023 qualifying report,2023-07-13T00:23:55,1395,33599,1409,56,50.2
+5058,202311,14,driver-focus,Joao Ferreira: the story so far,2023-07-14T22:00:15,1050,33556,1042,140,49.7
+5059,202311,2,driver-focus,Mateo Vidal: the story so far,2023-07-14T22:21:06,1050,65733,2202,189,51.1
+5060,202311,,race-recap,Tafelberg Grand Prix 2023 race highlights and analysis,2023-07-15T12:09:57,1425,62455,2633,196,49.1
+5061,202312,,qualifying-report,Serra Dourada Grand Prix 2023 qualifying report,2023-07-26T05:33:50,780,35813,1565,120,47.6
+5062,202312,1,driver-focus,Kasper Renn: the story so far,2023-07-28T09:25:59,840,32478,1383,93,39.4
+5063,202312,1,driver-focus,Kasper Renn: the story so far,2023-07-29T02:33:15,1125,25818,979,88,43.4
+5064,202312,,tech-analysis,How the cars evolved for Serra Dourada Grand Prix 2023,2023-07-30T08:20:10,540,39771,1519,92,48.9
+5065,202312,,race-recap,Serra Dourada Grand Prix 2023 race highlights and analysis,2023-07-30T09:15:19,555,45384,1941,109,54.4
+5066,202312,6,driver-focus,Willem Lindqvist: the story so far,2023-07-30T11:33:56,1485,26956,1262,100,43.5
+5067,202313,,qualifying-report,Baltica Grand Prix 2023 qualifying report,2023-08-08T04:57:28,495,31244,1306,112,55.4
+5068,202313,,race-recap,Baltica Grand Prix 2023 race highlights and analysis,2023-08-10T14:02:41,1020,71251,3236,227,47.9
+5069,202313,21,driver-focus,Casper Holm: the story so far,2023-08-12T10:07:09,570,49524,2121,62,47.7
+5070,202314,,qualifying-report,Marina Bay East Grand Prix 2023 qualifying report,2023-08-20T20:00:58,675,38749,1417,99,51.5
+5071,202314,,race-recap,Marina Bay East Grand Prix 2023 race highlights and analysis,2023-08-23T15:55:07,1110,65112,2773,300,43.0
+5072,202314,14,driver-focus,Joao Ferreira: the story so far,2023-08-25T06:40:51,855,43948,1770,136,40.1
+5073,202315,,qualifying-report,Highlands Grand Prix 2023 qualifying report,2023-09-03T03:21:36,765,46902,2192,159,57.9
+5074,202315,1,driver-focus,Kasper Renn: the story so far,2023-09-05T12:49:14,540,23440,1123,54,41.8
+5075,202315,,race-recap,Highlands Grand Prix 2023 race highlights and analysis,2023-09-05T13:39:11,1005,119592,4669,472,50.2
+5076,202316,,qualifying-report,Sierra Nevada Grand Prix 2023 qualifying report,2023-09-16T10:52:57,945,28204,1261,87,51.4
+5077,202316,1,driver-focus,Kasper Renn: the story so far,2023-09-18T18:21:11,1260,25160,1131,97,44.1
+5078,202316,2,driver-focus,Mateo Vidal: the story so far,2023-09-18T21:05:43,1425,43140,2082,102,42.3
+5079,202316,,race-recap,Sierra Nevada Grand Prix 2023 race highlights and analysis,2023-09-19T04:08:39,1470,59761,2075,160,51.1
+5080,202317,,qualifying-report,Danube Grand Prix 2023 qualifying report,2023-09-29T09:50:26,660,28180,1215,30,47.7
+5081,202317,8,driver-focus,Rhys Duffy: the story so far,2023-10-01T09:32:19,720,46546,1570,143,46.4
+5082,202317,,race-recap,Danube Grand Prix 2023 race highlights and analysis,2023-10-01T14:48:21,1455,52696,2516,205,44.9
+5083,202317,4,driver-focus,Elodie Marchand: the story so far,2023-10-03T04:59:28,495,40323,1848,157,44.1
+5084,202318,2,driver-focus,Mateo Vidal: the story so far,2023-10-15T02:20:52,675,48055,1933,162,44.9
+5085,202318,,race-recap,Fjordland Grand Prix 2023 race highlights and analysis,2023-10-16T19:10:30,915,62922,2118,109,44.2
+5086,202319,,qualifying-report,Atlas Grand Prix 2023 qualifying report,2023-10-25T00:27:22,585,39265,1504,156,44.8
+5087,202319,21,driver-focus,Casper Holm: the story so far,2023-10-26T16:45:34,1035,56153,2178,104,36.6
+5088,202319,6,driver-focus,Willem Lindqvist: the story so far,2023-10-26T17:43:23,510,47466,1745,150,41.6
+5089,202319,,race-recap,Atlas Grand Prix 2023 race highlights and analysis,2023-10-29T12:08:57,990,37851,1314,120,41.4
+5090,202319,,tech-analysis,How the cars evolved for Atlas Grand Prix 2023,2023-10-30T08:56:30,570,29035,1106,100,49.5
+5091,202320,21,driver-focus,Casper Holm: the story so far,2023-11-09T05:39:00,750,36033,1649,113,55.2
+5092,202320,8,driver-focus,Rhys Duffy: the story so far,2023-11-09T07:20:03,1065,57161,2434,55,51.1
+5093,202320,,race-recap,Emerald Grand Prix 2023 race highlights and analysis,2023-11-10T16:03:49,1410,68525,2841,237,51.2
+5094,202321,,qualifying-report,Golden Gate Grand Prix 2023 qualifying report,2023-11-20T11:17:23,765,53414,2487,124,49.5
+5095,202321,12,driver-focus,Wei Tan: the story so far,2023-11-22T10:28:35,495,61884,2879,215,48.3
+5096,202321,8,driver-focus,Rhys Duffy: the story so far,2023-11-23T19:37:41,810,51815,1896,207,49.2
+5097,202321,,tech-analysis,How the cars evolved for Golden Gate Grand Prix 2023,2023-11-24T11:12:09,1125,34749,1672,113,43.4
+5098,202321,,race-recap,Golden Gate Grand Prix 2023 race highlights and analysis,2023-11-24T20:47:50,1455,63663,1837,178,54.5
+5099,202322,,qualifying-report,Apex City Grand Prix 2023 qualifying report,2023-12-02T23:22:48,780,34378,1250,113,44.6
+5100,202322,21,driver-focus,Casper Holm: the story so far,2023-12-05T14:39:30,960,67998,3673,144,50.1
+5101,202322,,race-recap,Apex City Grand Prix 2023 race highlights and analysis,2023-12-06T20:28:47,1155,92326,3795,372,60.2
+5102,202322,1,driver-focus,Kasper Renn: the story so far,2023-12-07T03:27:48,765,30421,1519,128,41.6
+5103,,,off-season,Rule changes explained | 2024,2024-01-04T17:00:00,840,15508,542,61,49.8
+5104,,,off-season,Technical regulations deep dive | 2024,2024-01-05T18:00:00,1230,24309,960,67,55.6
+5105,,,off-season,Drivers to watch | 2024,2024-01-08T17:00:00,1050,31346,1434,65,50.6
+5106,,,off-season,Season preview | 2024,2024-01-11T17:00:00,645,25940,809,59,44.8
+5107,,,off-season,Engine suppliers explained | 2024,2024-01-15T17:00:00,1395,27807,1267,60,49.5
+5108,,,off-season,Pre-season testing analysis | 2024,2024-02-11T18:00:00,735,18800,597,57,54.9
+5109,,,off-season,Calendar guide | 2024,2024-02-16T16:00:00,855,24273,762,84,41.4
+5110,,,off-season,Team launch roundup | 2024,2024-02-24T18:00:00,975,19594,611,59,48.3
+5111,,,off-season,Fantasy league launch | 2024,2024-02-24T18:00:00,1470,23121,1144,63,49.3
+5112,,,off-season,Predictions show | 2024,2024-02-26T17:00:00,555,39645,1946,198,48.4
+5113,202401,,race-recap,Silverpine Grand Prix 2024 race highlights and analysis,2024-03-11T00:40:22,1185,171963,6981,737,56.2
+5114,202401,4,driver-focus,Elodie Marchand: the story so far,2024-03-12T07:22:44,1035,57402,2430,192,49.6
+5115,202401,,tech-analysis,How the cars evolved for Silverpine Grand Prix 2024,2024-03-12T13:55:31,885,70925,2875,239,40.3
+5116,202401,2,driver-focus,Mateo Vidal: the story so far,2024-03-12T15:51:20,1185,38779,1680,135,49.0
+5117,202401,21,driver-focus,Casper Holm: the story so far,2024-03-12T19:39:51,945,90466,3894,182,54.0
+5118,202402,,qualifying-report,Costa Azul Grand Prix 2024 qualifying report,2024-03-23T08:26:46,630,52527,2284,190,46.5
+5119,202402,,race-recap,Costa Azul Grand Prix 2024 race highlights and analysis,2024-03-24T18:01:01,480,113564,4848,401,47.7
+5120,202402,8,driver-focus,Rhys Duffy: the story so far,2024-03-26T02:27:55,1470,49966,1965,211,45.7
+5121,202402,4,driver-focus,Elodie Marchand: the story so far,2024-03-26T11:39:02,1305,70893,3048,264,46.9
+5122,202403,,qualifying-report,Sakura Grand Prix 2024 qualifying report,2024-04-04T16:37:19,1395,36628,1999,64,50.8
+5123,202403,,race-recap,Sakura Grand Prix 2024 race highlights and analysis,2024-04-05T21:49:42,630,98966,4585,415,48.9
+5124,202403,2,driver-focus,Mateo Vidal: the story so far,2024-04-07T14:00:08,525,46204,1749,213,48.5
+5125,202403,6,driver-focus,Willem Lindqvist: the story so far,2024-04-08T17:31:13,1485,58908,2538,161,44.6
+5126,202404,,qualifying-report,Redstone Grand Prix 2024 qualifying report,2024-04-18T12:35:54,915,58983,3023,252,45.5
+5127,202404,2,driver-focus,Mateo Vidal: the story so far,2024-04-20T01:22:57,840,63827,2284,210,43.2
+5128,202404,,race-recap,Redstone Grand Prix 2024 race highlights and analysis,2024-04-20T14:08:39,480,151172,6801,706,49.4
+5129,202404,2,driver-focus,Mateo Vidal: the story so far,2024-04-20T19:16:19,1035,62687,2783,110,49.1
+5130,202405,,qualifying-report,Lago Bianco Grand Prix 2024 qualifying report,2024-04-30T19:23:27,1395,55560,2184,182,47.2
+5131,202405,,race-recap,Lago Bianco Grand Prix 2024 race highlights and analysis,2024-05-02T09:32:37,825,120514,4311,475,47.0
+5132,202405,1,driver-focus,Kasper Renn: the story so far,2024-05-03T11:08:37,675,80407,3312,76,51.8
+5133,202405,4,driver-focus,Elodie Marchand: the story so far,2024-05-04T07:08:28,900,65040,2179,288,48.3
+5134,202405,,tech-analysis,How the cars evolved for Lago Bianco Grand Prix 2024,2024-05-04T09:38:09,660,27883,1135,129,54.4
+5135,202405,2,driver-focus,Mateo Vidal: the story so far,2024-05-04T10:59:18,1290,53700,1891,194,43.7
+5136,202406,,race-recap,Nordbahn Grand Prix 2024 race highlights and analysis,2024-05-14T23:36:05,1275,93740,3552,180,48.1
+5137,202406,6,driver-focus,Willem Lindqvist: the story so far,2024-05-16T08:11:25,1020,57496,2480,191,44.3
+5138,202406,4,driver-focus,Elodie Marchand: the story so far,2024-05-16T20:34:54,930,46256,1983,146,50.7
+5139,202406,,tech-analysis,How the cars evolved for Nordbahn Grand Prix 2024,2024-05-17T17:12:02,915,51177,1873,173,45.5
+5140,202407,,race-recap,Harbourside Grand Prix 2024 race highlights and analysis,2024-05-28T00:44:31,840,109953,4244,169,49.9
+5141,202407,8,driver-focus,Rhys Duffy: the story so far,2024-05-28T09:47:43,840,67428,3056,207,44.4
+5142,202407,4,driver-focus,Elodie Marchand: the story so far,2024-05-30T19:04:18,1335,44131,1797,77,51.8
+5143,202408,,qualifying-report,Vallee Verte Grand Prix 2024 qualifying report,2024-06-08T17:47:54,1305,48986,1750,115,49.0
+5144,202408,,race-recap,Vallee Verte Grand Prix 2024 race highlights and analysis,2024-06-10T00:07:37,1335,83435,4341,191,45.4
+5145,202408,,tech-analysis,How the cars evolved for Vallee Verte Grand Prix 2024,2024-06-12T20:39:14,1305,66607,2965,214,45.7
+5146,202408,21,driver-focus,Casper Holm: the story so far,2024-06-12T23:04:36,1275,61653,3058,172,47.6
+5147,202409,,qualifying-report,Aurora Grand Prix 2024 qualifying report,2024-06-22T09:18:29,1065,70625,2532,227,46.9
+5148,202409,,race-recap,Aurora Grand Prix 2024 race highlights and analysis,2024-06-23T05:46:27,510,68460,3285,163,47.8
+5149,202409,4,driver-focus,Elodie Marchand: the story so far,2024-06-24T03:31:15,1140,78480,2104,169,43.7
+5150,202409,6,driver-focus,Willem Lindqvist: the story so far,2024-06-26T15:14:46,1365,43373,1849,180,45.9
+5151,202410,,qualifying-report,Al Dhafra Grand Prix 2024 qualifying report,2024-07-05T03:57:06,540,52734,2831,159,51.1
+5152,202410,,race-recap,Al Dhafra Grand Prix 2024 race highlights and analysis,2024-07-06T05:29:20,1380,158421,6192,610,42.0
+5153,202410,21,driver-focus,Casper Holm: the story so far,2024-07-07T14:53:11,840,42212,2033,154,42.8
+5154,202410,21,driver-focus,Casper Holm: the story so far,2024-07-07T18:29:50,960,58986,2758,156,52.3
+5155,202411,,qualifying-report,Tafelberg Grand Prix 2024 qualifying report,2024-07-17T17:04:07,480,57420,2931,115,44.8
+5156,202411,,race-recap,Tafelberg Grand Prix 2024 race highlights and analysis,2024-07-19T00:18:55,1275,135240,5779,534,50.1
+5157,202411,1,driver-focus,Kasper Renn: the story so far,2024-07-21T15:31:27,1005,34213,1535,72,40.2
+5158,202412,,race-recap,Serra Dourada Grand Prix 2024 race highlights and analysis,2024-08-01T13:11:40,690,149671,5676,663,37.5
+5159,202412,2,driver-focus,Mateo Vidal: the story so far,2024-08-02T05:11:16,630,47981,1822,145,50.4
+5160,202412,21,driver-focus,Casper Holm: the story so far,2024-08-02T12:54:10,1200,105723,3520,346,51.6
+5161,202412,,tech-analysis,How the cars evolved for Serra Dourada Grand Prix 2024,2024-08-03T12:50:28,1020,50232,2621,137,41.4
+5162,202413,,race-recap,Baltica Grand Prix 2024 race highlights and analysis,2024-08-13T22:12:19,1155,205924,8734,820,47.7
+5163,202413,1,driver-focus,Kasper Renn: the story so far,2024-08-15T18:39:02,1215,63744,1909,153,44.2
+5164,202414,,qualifying-report,Marina Bay East Grand Prix 2024 qualifying report,2024-08-25T23:34:12,1200,41032,1726,119,41.6
+5165,202414,,race-recap,Marina Bay East Grand Prix 2024 race highlights and analysis,2024-08-27T02:35:54,1245,87861,3756,94,46.1
+5166,202414,,tech-analysis,How the cars evolved for Marina Bay East Grand Prix 2024,2024-08-28T12:23:17,1365,70744,3286,156,54.1
+5167,202414,1,driver-focus,Kasper Renn: the story so far,2024-08-28T14:52:28,1005,52439,2240,135,47.2
+5168,202414,4,driver-focus,Elodie Marchand: the story so far,2024-08-30T06:01:52,1005,86355,3977,198,51.8
+5169,202415,,qualifying-report,Highlands Grand Prix 2024 qualifying report,2024-09-08T02:14:52,1230,61733,1824,223,44.6
+5170,202415,,race-recap,Highlands Grand Prix 2024 race highlights and analysis,2024-09-09T03:16:33,960,255353,12928,869,50.9
+5171,202415,21,driver-focus,Casper Holm: the story so far,2024-09-10T14:40:15,825,95510,4126,88,48.8
+5172,202415,21,driver-focus,Casper Holm: the story so far,2024-09-11T19:36:56,1305,80077,3821,187,47.8
+5173,202416,,qualifying-report,Sierra Nevada Grand Prix 2024 qualifying report,2024-09-21T13:17:22,1380,67323,3035,283,43.3
+5174,202416,,race-recap,Sierra Nevada Grand Prix 2024 race highlights and analysis,2024-09-22T16:05:50,1470,162935,6460,339,50.5
+5175,202416,4,driver-focus,Elodie Marchand: the story so far,2024-09-23T22:08:45,1080,91444,3776,327,43.9
+5176,202417,,race-recap,Danube Grand Prix 2024 race highlights and analysis,2024-10-05T20:25:30,1410,134140,4865,474,39.4
+5177,202417,6,driver-focus,Willem Lindqvist: the story so far,2024-10-07T08:57:54,870,71031,2496,318,40.4
+5178,202417,8,driver-focus,Rhys Duffy: the story so far,2024-10-07T12:11:56,660,55111,2800,156,53.2
+5179,202418,,qualifying-report,Fjordland Grand Prix 2024 qualifying report,2024-10-16T21:27:58,1020,107172,4168,518,38.1
+5180,202418,,race-recap,Fjordland Grand Prix 2024 race highlights and analysis,2024-10-18T07:41:20,1020,161946,5262,552,48.8
+5181,202418,8,driver-focus,Rhys Duffy: the story so far,2024-10-20T13:35:41,870,84540,3450,312,58.2
+5182,202418,8,driver-focus,Rhys Duffy: the story so far,2024-10-20T15:47:19,1110,103908,5074,292,47.3
+5183,202419,,race-recap,Atlas Grand Prix 2024 race highlights and analysis,2024-10-31T13:23:28,915,165264,6902,562,54.2
+5184,202419,21,driver-focus,Casper Holm: the story so far,2024-11-02T08:04:41,1005,92061,3811,308,49.9
+5185,202419,8,driver-focus,Rhys Duffy: the story so far,2024-11-02T12:11:50,510,66595,2748,159,48.5
+5186,202419,,tech-analysis,How the cars evolved for Atlas Grand Prix 2024,2024-11-03T11:49:18,780,42170,1806,113,46.0
+5187,202420,,qualifying-report,Emerald Grand Prix 2024 qualifying report,2024-11-12T02:57:07,1170,41722,2056,157,53.3
+5188,202420,,race-recap,Emerald Grand Prix 2024 race highlights and analysis,2024-11-12T19:06:33,540,160722,6987,563,45.4
+5189,202420,1,driver-focus,Kasper Renn: the story so far,2024-11-14T18:09:36,540,89170,3941,250,38.8
+5190,202421,,race-recap,Golden Gate Grand Prix 2024 race highlights and analysis,2024-11-26T16:20:17,810,233219,9727,869,54.7
+5191,202421,2,driver-focus,Mateo Vidal: the story so far,2024-11-27T17:09:48,1080,86140,4128,315,49.9
+5192,202421,,tech-analysis,How the cars evolved for Golden Gate Grand Prix 2024,2024-11-27T23:33:40,1335,95869,3122,224,44.8
+5193,202422,,qualifying-report,Apex City Grand Prix 2024 qualifying report,2024-12-08T03:38:16,480,42123,1800,185,45.9
+5194,202422,,race-recap,Apex City Grand Prix 2024 race highlights and analysis,2024-12-09T04:29:18,1455,189037,6965,588,55.3
+5195,202422,4,driver-focus,Elodie Marchand: the story so far,2024-12-11T09:51:28,555,97609,3821,335,42.9
+5196,202422,2,driver-focus,Mateo Vidal: the story so far,2024-12-12T07:28:08,675,99782,4480,328,43.3
+5197,,,off-season,Engine suppliers explained | 2025,2025-01-08T18:00:00,765,41644,1743,171,39.0
+5198,,,off-season,Season preview | 2025,2025-01-10T18:00:00,570,42323,1972,139,52.0
+5199,,,off-season,Rule changes explained | 2025,2025-01-12T16:00:00,900,36892,1245,116,52.3
+5200,,,off-season,Technical regulations deep dive | 2025,2025-01-13T18:00:00,810,58168,2636,231,44.1
+5201,,,off-season,Drivers to watch | 2025,2025-01-23T17:00:00,1035,57158,2432,181,51.8
+5202,,,off-season,Predictions show | 2025,2025-02-05T16:00:00,1050,40525,1939,115,40.7
+5203,,,off-season,Calendar guide | 2025,2025-02-07T18:00:00,1455,48911,2056,174,42.1
+5204,,,off-season,Team launch roundup | 2025,2025-02-15T16:00:00,600,20593,860,60,44.9
+5205,,,off-season,Fantasy league launch | 2025,2025-02-15T17:00:00,855,45207,1709,127,53.2
+5206,,,off-season,Pre-season testing analysis | 2025,2025-02-15T18:00:00,810,50539,2404,134,44.7
+5207,202501,,qualifying-report,Silverpine Grand Prix 2025 qualifying report,2025-03-09T08:55:35,555,98315,3871,261,45.1
+5208,202501,,race-recap,Silverpine Grand Prix 2025 race highlights and analysis,2025-03-10T02:09:32,1275,241618,6827,754,54.4
+5209,202501,3,driver-focus,Luca Imai: the story so far,2025-03-12T08:52:45,990,199347,7895,552,52.2
+5210,202501,3,driver-focus,Luca Imai: the story so far,2025-03-13T08:58:24,990,103725,3669,193,53.0
+5211,202502,,race-recap,Costa Azul Grand Prix 2025 race highlights and analysis,2025-03-23T03:36:13,480,163923,5709,495,56.7
+5212,202502,,tech-analysis,How the cars evolved for Costa Azul Grand Prix 2025,2025-03-25T20:05:31,1320,72765,3095,183,46.0
+5213,202502,14,driver-focus,Joao Ferreira: the story so far,2025-03-26T03:17:40,675,83249,4151,314,40.4
+5214,202503,,qualifying-report,Sakura Grand Prix 2025 qualifying report,2025-04-03T14:16:01,1185,123716,5079,379,49.5
+5215,202503,,race-recap,Sakura Grand Prix 2025 race highlights and analysis,2025-04-05T00:03:54,1380,288525,13077,826,47.1
+5216,202503,1,driver-focus,Kasper Renn: the story so far,2025-04-06T08:08:28,960,111120,4098,495,42.6
+5217,202503,4,driver-focus,Elodie Marchand: the story so far,2025-04-06T13:09:31,1170,86464,3910,312,47.1
+5218,202503,8,driver-focus,Rhys Duffy: the story so far,2025-04-06T15:54:23,495,100231,4146,324,47.9
+5219,202503,,tech-analysis,How the cars evolved for Sakura Grand Prix 2025,2025-04-07T15:18:27,570,76997,2369,203,39.5
+5220,202504,,qualifying-report,Redstone Grand Prix 2025 qualifying report,2025-04-17T01:11:08,1095,128040,4601,448,48.0
+5221,202504,,race-recap,Redstone Grand Prix 2025 race highlights and analysis,2025-04-18T15:51:37,1020,133194,7174,506,46.5
+5222,202504,2,driver-focus,Mateo Vidal: the story so far,2025-04-18T21:22:32,1485,62986,3175,240,49.6
+5223,202504,3,driver-focus,Luca Imai: the story so far,2025-04-20T04:39:24,900,123637,4438,372,58.8
+5224,202504,,tech-analysis,How the cars evolved for Redstone Grand Prix 2025,2025-04-21T06:28:01,1290,36745,1543,78,55.1
+5225,202505,,race-recap,Lago Bianco Grand Prix 2025 race highlights and analysis,2025-05-01T05:37:12,630,159895,6378,589,65.4
+5226,202505,,tech-analysis,How the cars evolved for Lago Bianco Grand Prix 2025,2025-05-02T17:24:50,1125,79483,3827,290,48.3
+5227,202505,3,driver-focus,Luca Imai: the story so far,2025-05-03T16:19:15,960,125566,3978,388,53.8
+5228,202505,2,driver-focus,Mateo Vidal: the story so far,2025-05-04T04:47:57,1215,97805,2844,275,47.6
+5229,202506,,qualifying-report,Nordbahn Grand Prix 2025 qualifying report,2025-05-13T08:11:11,855,63584,2489,163,46.8
+5230,202506,,race-recap,Nordbahn Grand Prix 2025 race highlights and analysis,2025-05-14T01:50:51,945,352117,17480,847,55.5
+5231,202506,12,driver-focus,Wei Tan: the story so far,2025-05-15T16:12:09,1005,98345,3966,289,49.2
+5232,202506,12,driver-focus,Wei Tan: the story so far,2025-05-17T11:24:31,1350,134803,6471,475,45.0
+5233,202507,,qualifying-report,Harbourside Grand Prix 2025 qualifying report,2025-05-25T23:13:30,1440,92073,3845,235,50.2
+5234,202507,,race-recap,Harbourside Grand Prix 2025 race highlights and analysis,2025-05-26T20:31:59,960,152720,5434,329,41.0
+5235,202507,12,driver-focus,Wei Tan: the story so far,2025-05-28T04:32:53,915,92704,4526,334,43.4
+5236,202507,8,driver-focus,Rhys Duffy: the story so far,2025-05-29T20:44:00,630,107661,2911,441,42.5
+5237,202507,,tech-analysis,How the cars evolved for Harbourside Grand Prix 2025,2025-05-30T11:45:23,1080,84602,4007,274,52.4
+5238,202508,,qualifying-report,Vallee Verte Grand Prix 2025 qualifying report,2025-06-08T03:01:39,1320,55247,2702,193,55.2
+5239,202508,,race-recap,Vallee Verte Grand Prix 2025 race highlights and analysis,2025-06-09T09:40:45,1080,280021,12772,1089,54.3
+5240,202508,12,driver-focus,Wei Tan: the story so far,2025-06-10T06:11:22,855,114058,5636,374,42.9
+5241,202508,4,driver-focus,Elodie Marchand: the story so far,2025-06-12T03:13:26,735,79183,3527,217,55.6
+5242,202509,,race-recap,Aurora Grand Prix 2025 race highlights and analysis,2025-06-22T06:52:26,825,194577,8609,534,55.7
+5243,202509,12,driver-focus,Wei Tan: the story so far,2025-06-23T02:33:08,1440,120892,5431,253,50.8
+5244,202509,4,driver-focus,Elodie Marchand: the story so far,2025-06-23T21:43:34,495,129886,6076,331,55.6
+5245,202509,,tech-analysis,How the cars evolved for Aurora Grand Prix 2025,2025-06-24T07:38:21,975,71005,3062,196,46.2
+5246,202510,,race-recap,Al Dhafra Grand Prix 2025 race highlights and analysis,2025-07-04T23:46:16,1155,164338,8191,607,44.8
+5247,202510,4,driver-focus,Elodie Marchand: the story so far,2025-07-07T18:37:41,1290,117863,5451,330,46.1
+5248,202510,4,driver-focus,Elodie Marchand: the story so far,2025-07-08T05:03:16,1425,90922,3343,365,60.4
+5249,202510,,tech-analysis,How the cars evolved for Al Dhafra Grand Prix 2025,2025-07-08T17:40:18,765,60497,3191,116,40.9
+5250,202511,,qualifying-report,Tafelberg Grand Prix 2025 qualifying report,2025-07-17T09:03:30,1065,95979,4053,450,44.1
+5251,202511,,race-recap,Tafelberg Grand Prix 2025 race highlights and analysis,2025-07-18T02:58:28,1470,151974,4773,270,42.6
+5252,202511,3,driver-focus,Luca Imai: the story so far,2025-07-20T03:22:00,1080,164764,7036,612,60.4
+5253,202511,2,driver-focus,Mateo Vidal: the story so far,2025-07-20T11:28:02,870,122423,4992,352,43.2
+5254,202512,,qualifying-report,Serra Dourada Grand Prix 2025 qualifying report,2025-07-30T07:38:58,720,94364,3768,158,35.5
+5255,202512,8,driver-focus,Rhys Duffy: the story so far,2025-08-01T18:46:38,930,78443,2863,175,40.5
+5256,202512,,race-recap,Serra Dourada Grand Prix 2025 race highlights and analysis,2025-08-01T19:23:48,1230,214612,8336,332,40.9
+5257,202512,3,driver-focus,Luca Imai: the story so far,2025-08-03T02:16:00,855,238302,10914,455,51.5
+5258,202513,,qualifying-report,Baltica Grand Prix 2025 qualifying report,2025-08-11T22:14:48,705,89580,4135,394,51.8
+5259,202513,,race-recap,Baltica Grand Prix 2025 race highlights and analysis,2025-08-13T06:23:03,540,208608,10410,511,41.2
+5260,202513,8,driver-focus,Rhys Duffy: the story so far,2025-08-14T15:30:43,525,153664,5720,585,51.2
+5261,202513,4,driver-focus,Elodie Marchand: the story so far,2025-08-15T04:45:53,1185,89180,3584,238,42.5
+5262,202514,,qualifying-report,Marina Bay East Grand Prix 2025 qualifying report,2025-08-25T07:57:48,870,77734,3230,212,38.3
+5263,202514,,race-recap,Marina Bay East Grand Prix 2025 race highlights and analysis,2025-08-26T06:50:59,1455,201208,6081,722,46.3
+5264,202514,4,driver-focus,Elodie Marchand: the story so far,2025-08-28T20:06:55,615,139168,5606,511,55.7
+5265,202514,4,driver-focus,Elodie Marchand: the story so far,2025-08-29T10:44:52,555,104081,4168,364,40.5
+5266,202515,,qualifying-report,Highlands Grand Prix 2025 qualifying report,2025-09-07T04:19:02,1350,108706,4630,471,45.5
+5267,202515,4,driver-focus,Elodie Marchand: the story so far,2025-09-08T13:50:22,540,99461,3801,364,45.7
+5268,202515,3,driver-focus,Luca Imai: the story so far,2025-09-08T21:48:46,1425,190141,10470,680,63.9
+5269,202515,,race-recap,Highlands Grand Prix 2025 race highlights and analysis,2025-09-09T01:04:50,1440,331812,12146,956,54.4
+5270,202515,8,driver-focus,Rhys Duffy: the story so far,2025-09-09T01:31:48,1305,128332,6280,357,46.2
+5271,202515,,tech-analysis,How the cars evolved for Highlands Grand Prix 2025,2025-09-11T10:50:16,1155,85756,3469,180,37.4
+5272,202516,,qualifying-report,Sierra Nevada Grand Prix 2025 qualifying report,2025-09-20T10:06:22,600,127079,4959,287,53.3
+5273,202516,,race-recap,Sierra Nevada Grand Prix 2025 race highlights and analysis,2025-09-22T04:59:02,1080,174752,8678,639,50.4
+5274,202516,4,driver-focus,Elodie Marchand: the story so far,2025-09-22T08:32:52,930,195600,6570,722,48.3
+5275,202516,3,driver-focus,Luca Imai: the story so far,2025-09-23T12:30:54,720,122321,4939,353,56.9
+5276,202517,,qualifying-report,Danube Grand Prix 2025 qualifying report,2025-10-03T05:37:40,1305,90746,3636,178,49.2
+5277,202517,,race-recap,Danube Grand Prix 2025 race highlights and analysis,2025-10-03T22:40:09,1260,220274,8701,619,51.4
+5278,202517,8,driver-focus,Rhys Duffy: the story so far,2025-10-06T16:39:51,855,121542,5272,322,39.2
+5279,202517,,tech-analysis,How the cars evolved for Danube Grand Prix 2025,2025-10-08T08:41:26,480,58028,2294,158,38.3
+5280,202518,,race-recap,Fjordland Grand Prix 2025 race highlights and analysis,2025-10-17T01:44:14,480,182415,6874,476,39.7
+5281,202518,3,driver-focus,Luca Imai: the story so far,2025-10-17T14:06:39,1185,150627,5196,488,52.4
+5282,202518,3,driver-focus,Luca Imai: the story so far,2025-10-18T10:56:25,1335,277574,9583,590,52.8
+5283,202518,,tech-analysis,How the cars evolved for Fjordland Grand Prix 2025,2025-10-18T20:28:19,1230,107128,3328,319,50.2
+5284,202518,3,driver-focus,Luca Imai: the story so far,2025-10-19T20:11:57,960,172433,7308,656,52.6
+5285,202519,,qualifying-report,Atlas Grand Prix 2025 qualifying report,2025-10-28T21:30:45,1035,99478,3569,301,45.6
+5286,202519,,race-recap,Atlas Grand Prix 2025 race highlights and analysis,2025-10-31T03:58:27,1440,320482,13799,906,47.7
+5287,202519,1,driver-focus,Kasper Renn: the story so far,2025-10-31T06:22:59,1140,95980,4725,348,47.0
+5288,202519,4,driver-focus,Elodie Marchand: the story so far,2025-11-01T08:00:37,750,133917,5639,720,48.7
+5289,202519,8,driver-focus,Rhys Duffy: the story so far,2025-11-01T20:53:13,1485,146030,5193,517,45.4
+5290,202520,,race-recap,Emerald Grand Prix 2025 race highlights and analysis,2025-11-12T14:46:18,1185,191889,7702,736,50.9
+5291,202520,1,driver-focus,Kasper Renn: the story so far,2025-11-13T13:40:07,885,76005,3278,419,44.2
+5292,202520,,tech-analysis,How the cars evolved for Emerald Grand Prix 2025,2025-11-13T19:56:37,555,98438,4789,345,52.5
+5293,202520,4,driver-focus,Elodie Marchand: the story so far,2025-11-14T13:23:28,840,165622,6015,375,47.3
+5294,202520,1,driver-focus,Kasper Renn: the story so far,2025-11-14T21:14:18,810,60306,2455,181,43.2
+5295,202521,,qualifying-report,Golden Gate Grand Prix 2025 qualifying report,2025-11-24T05:55:42,1095,139076,5563,507,51.6
+5296,202521,,race-recap,Golden Gate Grand Prix 2025 race highlights and analysis,2025-11-25T14:51:12,585,248672,9792,808,51.1
+5297,202521,,tech-analysis,How the cars evolved for Golden Gate Grand Prix 2025,2025-11-27T04:53:46,1290,95944,3746,200,47.9
+5298,202521,12,driver-focus,Wei Tan: the story so far,2025-11-27T10:25:21,1350,175421,6609,449,38.9
+5299,202521,3,driver-focus,Luca Imai: the story so far,2025-11-27T15:06:17,1335,201832,4989,434,42.3
+5300,202521,12,driver-focus,Wei Tan: the story so far,2025-11-27T16:43:10,1065,136909,5951,291,44.8
+5301,202522,4,driver-focus,Elodie Marchand: the story so far,2025-12-08T20:57:04,735,,,,55.9
+5302,202522,12,driver-focus,Wei Tan: the story so far,2025-12-09T01:03:07,840,,,,52.4
+5303,202522,,race-recap,Apex City Grand Prix 2025 race highlights and analysis,2025-12-09T16:06:07,1005,,,,42.5
+5304,202522,1,driver-focus,Kasper Renn: the story so far,2025-12-10T12:47:18,660,,,,32.2
+5305,202522,,tech-analysis,How the cars evolved for Apex City Grand Prix 2025,2025-12-11T02:30:05,1230,,,,47.0
